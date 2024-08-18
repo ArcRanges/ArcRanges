@@ -10,19 +10,14 @@ I'm an experienced Full Stack Developer with a deep background in building scala
 
 ## 🛠 Projects
 
-- **[Sweet Collective Co.](https://sweetcollective.vercel.app/):**
+- **[Sweet Collective Co.](https://sweetcollective.vercel.app/)** [ **[View Code](https://github.com/ArcRanges/sweetcollective-nextjs)** ]
   A handcrafted jewelry brand, built with Next.js and Contentful CMS, utilizing Server-Side Rendering (SSR) and Incremental Static Regeneration (ISR) for a smooth shopping experience.
 
-  - **[Code](https://github.com/ArcRanges/sweetcollective-nextjs)**
-
-- **[PowerPal for ChatGPT](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn):**
+- **[PowerPal for ChatGPT](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn)** [ **[View Demo](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn)** ]
   A Chrome extension that enhances ChatGPT’s UI with JavaScript-powered DOM manipulations.
 
-  - **[Demo](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn)**
-
-- **[My Marketplace App](https://github.com/ArcRanges/my-marketplace):**
+- **[My Marketplace App](https://github.com/ArcRanges/my-marketplace)** [ **[View Code](https://github.com/ArcRanges/my-marketplace)** ]
   A simple ecommerce app with real-time live chat, developed using React Native and Firebase.
-  - **[Code](https://github.com/ArcRanges/my-marketplace)**
 
 ## 📫 Get in Touch
 
@@ -32,5 +27,5 @@ I'm an experienced Full Stack Developer with a deep background in building scala
 ## 🌱 Fun Facts
 
 - I nature and outdoors like hiking and camping.
-- I enjoy road trips and exploring new places.
+- I enjoy travelling, road trips, and exploring new places.
 - I love learning new things be it tech related or others.
