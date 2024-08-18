@@ -11,13 +11,16 @@ Full Stack Developer with **over 5 years of experience** in building **scalable 
 ## 🛠 Projects
 
 - **[Sweet Collective Co.](https://sweetcollective.vercel.app/)** [ **[View Code](https://github.com/ArcRanges/sweetcollective-nextjs)** ]
+
   A handcrafted jewelry brand, built with Next.js and Contentful CMS, utilizing Server-Side Rendering (SSR) and Incremental Static Regeneration (ISR) for a smooth shopping experience.
 
 - **[PowerPal for ChatGPT](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn)** [ **[View Demo](https://chromewebstore.google.com/detail/powerpal-for-chatgpt/golomlkpinbhgpnfbmopdcnmkjlinifn)** ]
-  A Chrome extension that enhances ChatGPT’s UI with JavaScript-powered DOM manipulations.
+
+  A Chrome extension that improves ChatGPT’s user experience by adding custom UI features through JavaScript-powered DOM manipulations, making interactions more intuitive and efficient.
 
 - **[My Marketplace App](https://github.com/ArcRanges/my-marketplace)** [ **[View Code](https://github.com/ArcRanges/my-marketplace)** ]
-  A simple ecommerce app with real-time live chat, developed using React Native and Firebase.
+
+  A simple ecommerce app featuring real-time chat, developed with React Native and Firebase to provide seamless and interactive user experiences.
 
 ## 📫 Get in Touch
 
