@@ -29,6 +29,6 @@ Full Stack Developer with **over 5 years of experience** in building **scalable 
 
 ## 🌱 Fun Facts
 
-- I nature and outdoors like hiking and camping.
+- I love nature and outdoors like hiking and camping.
 - I enjoy travelling, road trips, and exploring new places.
 - I love learning new things be it tech related or others.
