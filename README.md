@@ -1,6 +1,6 @@
 # Hello, I'm ArcRanges 👋
 
-Full Stack Developer with **over 5 years of experience** in building **scalable web applications**. I have a deep commitment to **exploring and implementing new technologies** like **ReactJS, NodeJS, AWS Services, and PostgreSQL**. I’m passionate about **mentoring** and **guiding students and junior developers**, helping them navigate the complexities of software development and fostering their growth in the tech industry.
+Full Stack Developer with **over 7 years of experience** in building **scalable web applications**. I have a deep commitment to **exploring and implementing new technologies** like **ReactJS, NodeJS/NestJS, AWS Services, and PostgreSQL**. Not only I’m passionate about **developing robust** and **interactive user interfaces** but also **mentoring** and **guiding students and junior developers**, helping them navigate the complexities of software development and fostering their growth in the tech industry.
 
 ## 🚀 Skills
 
